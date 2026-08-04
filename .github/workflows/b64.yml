@@ -1,4 +1,6 @@
 name: Update cf-b64.txt Hourly
+uses: actions/checkout@v4.2.2  # 明确指定一个支持Node.js 24的v4版本
+        
 
 # 触发条件：定时任务（每小时UTC时间0分）和手动触发
 on:
