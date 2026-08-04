@@ -58,329 +58,6 @@ dns:
       - 240.0.0.0/4
 
 proxies:
-  - name: "日本-01"
-    type: trojan
-    server: "108.162.198.18"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-02"
-    type: trojan
-    server: "108.162.198.19"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-03"
-    type: trojan
-    server: "108.162.198.12"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-04"
-    type: trojan
-    server: "108.162.198.13"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-05"
-    type: trojan
-    server: "108.162.198.16"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-06"
-    type: trojan
-    server: "108.162.198.2"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-07"
-    type: trojan
-    server: "108.162.198.7"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-08"
-    type: trojan
-    server: "108.162.198.1"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-09"
-    type: trojan
-    server: "108.162.198.17"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-10"
-    type: trojan
-    server: "108.162.198.11"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-11"
-    type: trojan
-    server: "108.162.198.9"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-12"
-    type: trojan
-    server: "108.162.198.8"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-13"
-    type: trojan
-    server: "108.162.198.3"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-14"
-    type: trojan
-    server: "108.162.198.4"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-15"
-    type: trojan
-    server: "108.162.198.10"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-16"
-    type: trojan
-    server: "108.162.198.5"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-17"
-    type: trojan
-    server: "108.162.198.6"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-18"
-    type: trojan
-    server: "108.162.198.14"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "日本-19"
-    type: trojan
-    server: "108.162.198.15"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
   - name: "新加坡-01"
     type: trojan
     server: "172.64.32.1"
@@ -772,31 +449,335 @@ proxies:
     ech-opts:
       enable: true
       query-server-name: "cloudflare-ech.com"
+  - name: "日本-01"
+    type: trojan
+    server: "108.162.198.18"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-02"
+    type: trojan
+    server: "108.162.198.19"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-03"
+    type: trojan
+    server: "108.162.198.12"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-04"
+    type: trojan
+    server: "108.162.198.13"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-05"
+    type: trojan
+    server: "108.162.198.16"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-06"
+    type: trojan
+    server: "108.162.198.2"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-07"
+    type: trojan
+    server: "108.162.198.7"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-08"
+    type: trojan
+    server: "108.162.198.1"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-09"
+    type: trojan
+    server: "108.162.198.17"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-10"
+    type: trojan
+    server: "108.162.198.11"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-11"
+    type: trojan
+    server: "108.162.198.9"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-12"
+    type: trojan
+    server: "108.162.198.8"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-13"
+    type: trojan
+    server: "108.162.198.3"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-14"
+    type: trojan
+    server: "108.162.198.4"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-15"
+    type: trojan
+    server: "108.162.198.10"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-16"
+    type: trojan
+    server: "108.162.198.5"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-17"
+    type: trojan
+    server: "108.162.198.6"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-18"
+    type: trojan
+    server: "108.162.198.14"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "日本-19"
+    type: trojan
+    server: "108.162.198.15"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
 
 proxy-groups:
   - name: "🚀 节点选择"
     type: select
     proxies:
       - "🎯 全球直连"
-      - "日本-01"
-      - "日本-02"
-      - "日本-03"
-      - "日本-04"
-      - "日本-05"
-      - "日本-06"
-      - "日本-07"
-      - "日本-08"
-      - "日本-09"
-      - "日本-10"
-      - "日本-11"
-      - "日本-12"
-      - "日本-13"
-      - "日本-14"
-      - "日本-15"
-      - "日本-16"
-      - "日本-17"
-      - "日本-18"
-      - "日本-19"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -820,30 +801,30 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "日本-01"
+      - "日本-02"
+      - "日本-03"
+      - "日本-04"
+      - "日本-05"
+      - "日本-06"
+      - "日本-07"
+      - "日本-08"
+      - "日本-09"
+      - "日本-10"
+      - "日本-11"
+      - "日本-12"
+      - "日本-13"
+      - "日本-14"
+      - "日本-15"
+      - "日本-16"
+      - "日本-17"
+      - "日本-18"
+      - "日本-19"
   - name: "🌍 国外媒体"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "日本-01"
-      - "日本-02"
-      - "日本-03"
-      - "日本-04"
-      - "日本-05"
-      - "日本-06"
-      - "日本-07"
-      - "日本-08"
-      - "日本-09"
-      - "日本-10"
-      - "日本-11"
-      - "日本-12"
-      - "日本-13"
-      - "日本-14"
-      - "日本-15"
-      - "日本-16"
-      - "日本-17"
-      - "日本-18"
-      - "日本-19"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -867,30 +848,30 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "日本-01"
+      - "日本-02"
+      - "日本-03"
+      - "日本-04"
+      - "日本-05"
+      - "日本-06"
+      - "日本-07"
+      - "日本-08"
+      - "日本-09"
+      - "日本-10"
+      - "日本-11"
+      - "日本-12"
+      - "日本-13"
+      - "日本-14"
+      - "日本-15"
+      - "日本-16"
+      - "日本-17"
+      - "日本-18"
+      - "日本-19"
   - name: "📺 哔哩哔哩"
     type: select
     proxies:
       - "🎯 全球直连"
       - "🚀 节点选择"
-      - "日本-01"
-      - "日本-02"
-      - "日本-03"
-      - "日本-04"
-      - "日本-05"
-      - "日本-06"
-      - "日本-07"
-      - "日本-08"
-      - "日本-09"
-      - "日本-10"
-      - "日本-11"
-      - "日本-12"
-      - "日本-13"
-      - "日本-14"
-      - "日本-15"
-      - "日本-16"
-      - "日本-17"
-      - "日本-18"
-      - "日本-19"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -914,31 +895,31 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "日本-01"
+      - "日本-02"
+      - "日本-03"
+      - "日本-04"
+      - "日本-05"
+      - "日本-06"
+      - "日本-07"
+      - "日本-08"
+      - "日本-09"
+      - "日本-10"
+      - "日本-11"
+      - "日本-12"
+      - "日本-13"
+      - "日本-14"
+      - "日本-15"
+      - "日本-16"
+      - "日本-17"
+      - "日本-18"
+      - "日本-19"
   - name: "📹 油管视频"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
       - "🌍 国外媒体"
-      - "日本-01"
-      - "日本-02"
-      - "日本-03"
-      - "日本-04"
-      - "日本-05"
-      - "日本-06"
-      - "日本-07"
-      - "日本-08"
-      - "日本-09"
-      - "日本-10"
-      - "日本-11"
-      - "日本-12"
-      - "日本-13"
-      - "日本-14"
-      - "日本-15"
-      - "日本-16"
-      - "日本-17"
-      - "日本-18"
-      - "日本-19"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -962,31 +943,31 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "日本-01"
+      - "日本-02"
+      - "日本-03"
+      - "日本-04"
+      - "日本-05"
+      - "日本-06"
+      - "日本-07"
+      - "日本-08"
+      - "日本-09"
+      - "日本-10"
+      - "日本-11"
+      - "日本-12"
+      - "日本-13"
+      - "日本-14"
+      - "日本-15"
+      - "日本-16"
+      - "日本-17"
+      - "日本-18"
+      - "日本-19"
   - name: "🎬 奈飞视频"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
       - "🌍 国外媒体"
-      - "日本-01"
-      - "日本-02"
-      - "日本-03"
-      - "日本-04"
-      - "日本-05"
-      - "日本-06"
-      - "日本-07"
-      - "日本-08"
-      - "日本-09"
-      - "日本-10"
-      - "日本-11"
-      - "日本-12"
-      - "日本-13"
-      - "日本-14"
-      - "日本-15"
-      - "日本-16"
-      - "日本-17"
-      - "日本-18"
-      - "日本-19"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1010,30 +991,30 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "日本-01"
+      - "日本-02"
+      - "日本-03"
+      - "日本-04"
+      - "日本-05"
+      - "日本-06"
+      - "日本-07"
+      - "日本-08"
+      - "日本-09"
+      - "日本-10"
+      - "日本-11"
+      - "日本-12"
+      - "日本-13"
+      - "日本-14"
+      - "日本-15"
+      - "日本-16"
+      - "日本-17"
+      - "日本-18"
+      - "日本-19"
   - name: "📲 电报信息"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "日本-01"
-      - "日本-02"
-      - "日本-03"
-      - "日本-04"
-      - "日本-05"
-      - "日本-06"
-      - "日本-07"
-      - "日本-08"
-      - "日本-09"
-      - "日本-10"
-      - "日本-11"
-      - "日本-12"
-      - "日本-13"
-      - "日本-14"
-      - "日本-15"
-      - "日本-16"
-      - "日本-17"
-      - "日本-18"
-      - "日本-19"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1057,30 +1038,30 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "日本-01"
+      - "日本-02"
+      - "日本-03"
+      - "日本-04"
+      - "日本-05"
+      - "日本-06"
+      - "日本-07"
+      - "日本-08"
+      - "日本-09"
+      - "日本-10"
+      - "日本-11"
+      - "日本-12"
+      - "日本-13"
+      - "日本-14"
+      - "日本-15"
+      - "日本-16"
+      - "日本-17"
+      - "日本-18"
+      - "日本-19"
   - name: "🌐 谷歌服务"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "日本-01"
-      - "日本-02"
-      - "日本-03"
-      - "日本-04"
-      - "日本-05"
-      - "日本-06"
-      - "日本-07"
-      - "日本-08"
-      - "日本-09"
-      - "日本-10"
-      - "日本-11"
-      - "日本-12"
-      - "日本-13"
-      - "日本-14"
-      - "日本-15"
-      - "日本-16"
-      - "日本-17"
-      - "日本-18"
-      - "日本-19"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1104,30 +1085,30 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "日本-01"
+      - "日本-02"
+      - "日本-03"
+      - "日本-04"
+      - "日本-05"
+      - "日本-06"
+      - "日本-07"
+      - "日本-08"
+      - "日本-09"
+      - "日本-10"
+      - "日本-11"
+      - "日本-12"
+      - "日本-13"
+      - "日本-14"
+      - "日本-15"
+      - "日本-16"
+      - "日本-17"
+      - "日本-18"
+      - "日本-19"
   - name: "🤖 OpenAI"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "日本-01"
-      - "日本-02"
-      - "日本-03"
-      - "日本-04"
-      - "日本-05"
-      - "日本-06"
-      - "日本-07"
-      - "日本-08"
-      - "日本-09"
-      - "日本-10"
-      - "日本-11"
-      - "日本-12"
-      - "日本-13"
-      - "日本-14"
-      - "日本-15"
-      - "日本-16"
-      - "日本-17"
-      - "日本-18"
-      - "日本-19"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1151,30 +1132,30 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "日本-01"
+      - "日本-02"
+      - "日本-03"
+      - "日本-04"
+      - "日本-05"
+      - "日本-06"
+      - "日本-07"
+      - "日本-08"
+      - "日本-09"
+      - "日本-10"
+      - "日本-11"
+      - "日本-12"
+      - "日本-13"
+      - "日本-14"
+      - "日本-15"
+      - "日本-16"
+      - "日本-17"
+      - "日本-18"
+      - "日本-19"
   - name: "Ⓜ️ 微软服务"
     type: select
     proxies:
       - "🎯 全球直连"
       - "🚀 节点选择"
-      - "日本-01"
-      - "日本-02"
-      - "日本-03"
-      - "日本-04"
-      - "日本-05"
-      - "日本-06"
-      - "日本-07"
-      - "日本-08"
-      - "日本-09"
-      - "日本-10"
-      - "日本-11"
-      - "日本-12"
-      - "日本-13"
-      - "日本-14"
-      - "日本-15"
-      - "日本-16"
-      - "日本-17"
-      - "日本-18"
-      - "日本-19"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1198,30 +1179,30 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "日本-01"
+      - "日本-02"
+      - "日本-03"
+      - "日本-04"
+      - "日本-05"
+      - "日本-06"
+      - "日本-07"
+      - "日本-08"
+      - "日本-09"
+      - "日本-10"
+      - "日本-11"
+      - "日本-12"
+      - "日本-13"
+      - "日本-14"
+      - "日本-15"
+      - "日本-16"
+      - "日本-17"
+      - "日本-18"
+      - "日本-19"
   - name: "🍎 苹果服务"
     type: select
     proxies:
       - "🎯 全球直连"
       - "🚀 节点选择"
-      - "日本-01"
-      - "日本-02"
-      - "日本-03"
-      - "日本-04"
-      - "日本-05"
-      - "日本-06"
-      - "日本-07"
-      - "日本-08"
-      - "日本-09"
-      - "日本-10"
-      - "日本-11"
-      - "日本-12"
-      - "日本-13"
-      - "日本-14"
-      - "日本-15"
-      - "日本-16"
-      - "日本-17"
-      - "日本-18"
-      - "日本-19"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1245,6 +1226,25 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "日本-01"
+      - "日本-02"
+      - "日本-03"
+      - "日本-04"
+      - "日本-05"
+      - "日本-06"
+      - "日本-07"
+      - "日本-08"
+      - "日本-09"
+      - "日本-10"
+      - "日本-11"
+      - "日本-12"
+      - "日本-13"
+      - "日本-14"
+      - "日本-15"
+      - "日本-16"
+      - "日本-17"
+      - "日本-18"
+      - "日本-19"
   - name: "🎯 全球直连"
     type: select
     proxies:
@@ -1264,25 +1264,6 @@ proxy-groups:
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "日本-01"
-      - "日本-02"
-      - "日本-03"
-      - "日本-04"
-      - "日本-05"
-      - "日本-06"
-      - "日本-07"
-      - "日本-08"
-      - "日本-09"
-      - "日本-10"
-      - "日本-11"
-      - "日本-12"
-      - "日本-13"
-      - "日本-14"
-      - "日本-15"
-      - "日本-16"
-      - "日本-17"
-      - "日本-18"
-      - "日本-19"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1306,6 +1287,25 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "日本-01"
+      - "日本-02"
+      - "日本-03"
+      - "日本-04"
+      - "日本-05"
+      - "日本-06"
+      - "日本-07"
+      - "日本-08"
+      - "日本-09"
+      - "日本-10"
+      - "日本-11"
+      - "日本-12"
+      - "日本-13"
+      - "日本-14"
+      - "日本-15"
+      - "日本-16"
+      - "日本-17"
+      - "日本-18"
+      - "日本-19"
 
 rule-providers:
   reject:
