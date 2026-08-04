@@ -1,6 +1,4 @@
 name: Update cf-b64.txt Hourly
-uses: actions/checkout@v4.2.2  # 明确指定一个支持Node.js 24的v4版本
-        
 
 # 触发条件：定时任务（每小时UTC时间0分）和手动触发
 on:
@@ -20,7 +18,7 @@ jobs:
     steps:
       # 1. 检出仓库代码
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           # 必须获取完整历史记录，否则无法推送
           fetch-depth: 0
