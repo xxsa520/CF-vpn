@@ -18,10 +18,16 @@ jobs:
         with:
           fetch-depth: 0
 
-      # 2. 下载所有订阅内容
+      # 2. 下载所有订阅内容 (1个原有 + 5个新增)
       - name: Download subscription files
         run: |
           echo "Starting download of all subscription files..."
+          
+          # --- 下载原有的文件 ---
+          curl -Ls "https://www.6-9f8.workers.dev/e258977b-e413-4718-a3af-02d75492c349/sub" -o cf-b64.txt
+          echo "✓ cf-b64.txt downloaded"
+          
+          # --- 下载新增的5个文件 ---
           
           # 下载 Clash 格式
           curl -Ls "https://www.6-9f8.workers.dev/e258977b-e413-4718-a3af-02d75492c349/sub?target=clash" -o clash-stash.txt
@@ -51,17 +57,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # 4. 提交并推送所有更改
+      # 4. 提交并推送所有更改 (包含全部6个文件)
       - name: Commit and push changes
         run: |
-          # 添加所有5个文件到暂存区
+          # ✅ 添加所有文件：原有的1个 + 新增的5个
           git add cf-b64.txt clash-stash.txt surge.txt singbox.txt loon.txt quanx.txt
           
           # 检查暂存区是否有变化
           if ! git diff --cached --quiet; then
             git commit -m "Automated update: Hourly subscription files update [skip ci]"
             git push
-            echo "✅ All subscription files updated and pushed successfully."
+            echo "✅ All 6 subscription files updated and pushed successfully."
           else
             echo "ℹ️ No changes detected in any subscription files. Nothing to commit."
           fi
