@@ -84,28 +84,6 @@
       "tag": "select",
       "outbounds": [
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
-        "日本-01",
-        "日本-02",
-        "日本-03",
-        "日本-04",
-        "日本-05",
-        "日本-06",
-        "日本-07",
-        "日本-08",
-        "日本-09",
-        "日本-10",
-        "日本-11",
-        "日本-12",
-        "日本-13",
-        "日本-14",
-        "日本-15",
-        "日本-16",
-        "日本-17",
-        "日本-18",
-        "日本-19",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -125,9 +103,31 @@
         "新加坡-17",
         "新加坡-18",
         "新加坡-19",
-        "新加坡-20"
+        "新加坡-20",
+        "日本-01",
+        "日本-02",
+        "日本-03",
+        "日本-04",
+        "日本-05",
+        "日本-06",
+        "日本-07",
+        "日本-08",
+        "日本-09",
+        "日本-10",
+        "日本-11",
+        "日本-12",
+        "日本-13",
+        "日本-14",
+        "日本-15",
+        "日本-16",
+        "日本-17",
+        "日本-18",
+        "日本-19",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03"
       ],
-      "default": "优选域名-01"
+      "default": "新加坡-01"
     },
     {
       "type": "selector",
@@ -135,28 +135,6 @@
       "outbounds": [
         "select",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
-        "日本-01",
-        "日本-02",
-        "日本-03",
-        "日本-04",
-        "日本-05",
-        "日本-06",
-        "日本-07",
-        "日本-08",
-        "日本-09",
-        "日本-10",
-        "日本-11",
-        "日本-12",
-        "日本-13",
-        "日本-14",
-        "日本-15",
-        "日本-16",
-        "日本-17",
-        "日本-18",
-        "日本-19",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -176,7 +154,29 @@
         "新加坡-17",
         "新加坡-18",
         "新加坡-19",
-        "新加坡-20"
+        "新加坡-20",
+        "日本-01",
+        "日本-02",
+        "日本-03",
+        "日本-04",
+        "日本-05",
+        "日本-06",
+        "日本-07",
+        "日本-08",
+        "日本-09",
+        "日本-10",
+        "日本-11",
+        "日本-12",
+        "日本-13",
+        "日本-14",
+        "日本-15",
+        "日本-16",
+        "日本-17",
+        "日本-18",
+        "日本-19",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03"
       ]
     },
     {
@@ -185,28 +185,6 @@
       "outbounds": [
         "select",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
-        "日本-01",
-        "日本-02",
-        "日本-03",
-        "日本-04",
-        "日本-05",
-        "日本-06",
-        "日本-07",
-        "日本-08",
-        "日本-09",
-        "日本-10",
-        "日本-11",
-        "日本-12",
-        "日本-13",
-        "日本-14",
-        "日本-15",
-        "日本-16",
-        "日本-17",
-        "日本-18",
-        "日本-19",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -226,7 +204,29 @@
         "新加坡-17",
         "新加坡-18",
         "新加坡-19",
-        "新加坡-20"
+        "新加坡-20",
+        "日本-01",
+        "日本-02",
+        "日本-03",
+        "日本-04",
+        "日本-05",
+        "日本-06",
+        "日本-07",
+        "日本-08",
+        "日本-09",
+        "日本-10",
+        "日本-11",
+        "日本-12",
+        "日本-13",
+        "日本-14",
+        "日本-15",
+        "日本-16",
+        "日本-17",
+        "日本-18",
+        "日本-19",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03"
       ]
     },
     {
@@ -235,28 +235,6 @@
       "outbounds": [
         "select",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
-        "日本-01",
-        "日本-02",
-        "日本-03",
-        "日本-04",
-        "日本-05",
-        "日本-06",
-        "日本-07",
-        "日本-08",
-        "日本-09",
-        "日本-10",
-        "日本-11",
-        "日本-12",
-        "日本-13",
-        "日本-14",
-        "日本-15",
-        "日本-16",
-        "日本-17",
-        "日本-18",
-        "日本-19",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -276,7 +254,29 @@
         "新加坡-17",
         "新加坡-18",
         "新加坡-19",
-        "新加坡-20"
+        "新加坡-20",
+        "日本-01",
+        "日本-02",
+        "日本-03",
+        "日本-04",
+        "日本-05",
+        "日本-06",
+        "日本-07",
+        "日本-08",
+        "日本-09",
+        "日本-10",
+        "日本-11",
+        "日本-12",
+        "日本-13",
+        "日本-14",
+        "日本-15",
+        "日本-16",
+        "日本-17",
+        "日本-18",
+        "日本-19",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03"
       ]
     },
     {
@@ -285,28 +285,6 @@
       "outbounds": [
         "select",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
-        "日本-01",
-        "日本-02",
-        "日本-03",
-        "日本-04",
-        "日本-05",
-        "日本-06",
-        "日本-07",
-        "日本-08",
-        "日本-09",
-        "日本-10",
-        "日本-11",
-        "日本-12",
-        "日本-13",
-        "日本-14",
-        "日本-15",
-        "日本-16",
-        "日本-17",
-        "日本-18",
-        "日本-19",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -326,7 +304,29 @@
         "新加坡-17",
         "新加坡-18",
         "新加坡-19",
-        "新加坡-20"
+        "新加坡-20",
+        "日本-01",
+        "日本-02",
+        "日本-03",
+        "日本-04",
+        "日本-05",
+        "日本-06",
+        "日本-07",
+        "日本-08",
+        "日本-09",
+        "日本-10",
+        "日本-11",
+        "日本-12",
+        "日本-13",
+        "日本-14",
+        "日本-15",
+        "日本-16",
+        "日本-17",
+        "日本-18",
+        "日本-19",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03"
       ]
     },
     {
@@ -335,28 +335,6 @@
       "outbounds": [
         "direct",
         "select",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
-        "日本-01",
-        "日本-02",
-        "日本-03",
-        "日本-04",
-        "日本-05",
-        "日本-06",
-        "日本-07",
-        "日本-08",
-        "日本-09",
-        "日本-10",
-        "日本-11",
-        "日本-12",
-        "日本-13",
-        "日本-14",
-        "日本-15",
-        "日本-16",
-        "日本-17",
-        "日本-18",
-        "日本-19",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -376,7 +354,29 @@
         "新加坡-17",
         "新加坡-18",
         "新加坡-19",
-        "新加坡-20"
+        "新加坡-20",
+        "日本-01",
+        "日本-02",
+        "日本-03",
+        "日本-04",
+        "日本-05",
+        "日本-06",
+        "日本-07",
+        "日本-08",
+        "日本-09",
+        "日本-10",
+        "日本-11",
+        "日本-12",
+        "日本-13",
+        "日本-14",
+        "日本-15",
+        "日本-16",
+        "日本-17",
+        "日本-18",
+        "日本-19",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03"
       ]
     },
     {
@@ -385,28 +385,6 @@
       "outbounds": [
         "direct",
         "select",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
-        "日本-01",
-        "日本-02",
-        "日本-03",
-        "日本-04",
-        "日本-05",
-        "日本-06",
-        "日本-07",
-        "日本-08",
-        "日本-09",
-        "日本-10",
-        "日本-11",
-        "日本-12",
-        "日本-13",
-        "日本-14",
-        "日本-15",
-        "日本-16",
-        "日本-17",
-        "日本-18",
-        "日本-19",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -426,7 +404,29 @@
         "新加坡-17",
         "新加坡-18",
         "新加坡-19",
-        "新加坡-20"
+        "新加坡-20",
+        "日本-01",
+        "日本-02",
+        "日本-03",
+        "日本-04",
+        "日本-05",
+        "日本-06",
+        "日本-07",
+        "日本-08",
+        "日本-09",
+        "日本-10",
+        "日本-11",
+        "日本-12",
+        "日本-13",
+        "日本-14",
+        "日本-15",
+        "日本-16",
+        "日本-17",
+        "日本-18",
+        "日本-19",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03"
       ]
     },
     {
@@ -435,28 +435,6 @@
       "outbounds": [
         "direct",
         "select",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
-        "日本-01",
-        "日本-02",
-        "日本-03",
-        "日本-04",
-        "日本-05",
-        "日本-06",
-        "日本-07",
-        "日本-08",
-        "日本-09",
-        "日本-10",
-        "日本-11",
-        "日本-12",
-        "日本-13",
-        "日本-14",
-        "日本-15",
-        "日本-16",
-        "日本-17",
-        "日本-18",
-        "日本-19",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -476,7 +454,29 @@
         "新加坡-17",
         "新加坡-18",
         "新加坡-19",
-        "新加坡-20"
+        "新加坡-20",
+        "日本-01",
+        "日本-02",
+        "日本-03",
+        "日本-04",
+        "日本-05",
+        "日本-06",
+        "日本-07",
+        "日本-08",
+        "日本-09",
+        "日本-10",
+        "日本-11",
+        "日本-12",
+        "日本-13",
+        "日本-14",
+        "日本-15",
+        "日本-16",
+        "日本-17",
+        "日本-18",
+        "日本-19",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03"
       ]
     },
     {
@@ -486,28 +486,6 @@
         "select",
         "🌍 国外媒体",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
-        "日本-01",
-        "日本-02",
-        "日本-03",
-        "日本-04",
-        "日本-05",
-        "日本-06",
-        "日本-07",
-        "日本-08",
-        "日本-09",
-        "日本-10",
-        "日本-11",
-        "日本-12",
-        "日本-13",
-        "日本-14",
-        "日本-15",
-        "日本-16",
-        "日本-17",
-        "日本-18",
-        "日本-19",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -527,7 +505,29 @@
         "新加坡-17",
         "新加坡-18",
         "新加坡-19",
-        "新加坡-20"
+        "新加坡-20",
+        "日本-01",
+        "日本-02",
+        "日本-03",
+        "日本-04",
+        "日本-05",
+        "日本-06",
+        "日本-07",
+        "日本-08",
+        "日本-09",
+        "日本-10",
+        "日本-11",
+        "日本-12",
+        "日本-13",
+        "日本-14",
+        "日本-15",
+        "日本-16",
+        "日本-17",
+        "日本-18",
+        "日本-19",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03"
       ]
     },
     {
@@ -537,28 +537,6 @@
         "select",
         "🌍 国外媒体",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
-        "日本-01",
-        "日本-02",
-        "日本-03",
-        "日本-04",
-        "日本-05",
-        "日本-06",
-        "日本-07",
-        "日本-08",
-        "日本-09",
-        "日本-10",
-        "日本-11",
-        "日本-12",
-        "日本-13",
-        "日本-14",
-        "日本-15",
-        "日本-16",
-        "日本-17",
-        "日本-18",
-        "日本-19",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -578,7 +556,29 @@
         "新加坡-17",
         "新加坡-18",
         "新加坡-19",
-        "新加坡-20"
+        "新加坡-20",
+        "日本-01",
+        "日本-02",
+        "日本-03",
+        "日本-04",
+        "日本-05",
+        "日本-06",
+        "日本-07",
+        "日本-08",
+        "日本-09",
+        "日本-10",
+        "日本-11",
+        "日本-12",
+        "日本-13",
+        "日本-14",
+        "日本-15",
+        "日本-16",
+        "日本-17",
+        "日本-18",
+        "日本-19",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03"
       ]
     },
     {
@@ -594,28 +594,6 @@
       "outbounds": [
         "select",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
-        "日本-01",
-        "日本-02",
-        "日本-03",
-        "日本-04",
-        "日本-05",
-        "日本-06",
-        "日本-07",
-        "日本-08",
-        "日本-09",
-        "日本-10",
-        "日本-11",
-        "日本-12",
-        "日本-13",
-        "日本-14",
-        "日本-15",
-        "日本-16",
-        "日本-17",
-        "日本-18",
-        "日本-19",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -635,13 +613,35 @@
         "新加坡-17",
         "新加坡-18",
         "新加坡-19",
-        "新加坡-20"
+        "新加坡-20",
+        "日本-01",
+        "日本-02",
+        "日本-03",
+        "日本-04",
+        "日本-05",
+        "日本-06",
+        "日本-07",
+        "日本-08",
+        "日本-09",
+        "日本-10",
+        "日本-11",
+        "日本-12",
+        "日本-13",
+        "日本-14",
+        "日本-15",
+        "日本-16",
+        "日本-17",
+        "日本-18",
+        "日本-19",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03"
       ]
     },
     {
       "type": "trojan",
-      "tag": "优选域名-01",
-      "server": "openai.com",
+      "tag": "新加坡-01",
+      "server": "172.64.32.1",
       "server_port": 443,
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
@@ -670,8 +670,8 @@
     },
     {
       "type": "trojan",
-      "tag": "优选域名-02",
-      "server": "www.5h.com",
+      "tag": "新加坡-02",
+      "server": "108.162.192.8",
       "server_port": 443,
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
@@ -700,8 +700,518 @@
     },
     {
       "type": "trojan",
-      "tag": "优选域名-03",
-      "server": "cdn.204910.best",
+      "tag": "新加坡-03",
+      "server": "108.162.192.3",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-04",
+      "server": "162.159.0.6",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-05",
+      "server": "108.162.192.2",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-06",
+      "server": "172.64.32.2",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-07",
+      "server": "162.159.0.4",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-08",
+      "server": "172.64.32.8",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-09",
+      "server": "172.64.32.5",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-10",
+      "server": "162.159.0.5",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-11",
+      "server": "108.162.192.4",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-12",
+      "server": "162.159.0.7",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-13",
+      "server": "108.162.192.1",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-14",
+      "server": "162.159.0.3",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-15",
+      "server": "162.159.0.2",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-16",
+      "server": "108.162.192.7",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-17",
+      "server": "108.162.192.9",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-18",
+      "server": "172.64.32.7",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-19",
+      "server": "162.159.0.1",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.6-9f8.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.6-9f8.workers.dev"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-20",
+      "server": "172.64.32.6",
       "server_port": 443,
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
@@ -1300,8 +1810,8 @@
     },
     {
       "type": "trojan",
-      "tag": "新加坡-01",
-      "server": "172.64.32.1",
+      "tag": "优选域名-01",
+      "server": "openai.com",
       "server_port": 443,
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
@@ -1330,8 +1840,8 @@
     },
     {
       "type": "trojan",
-      "tag": "新加坡-02",
-      "server": "108.162.192.8",
+      "tag": "优选域名-02",
+      "server": "www.5h.com",
       "server_port": 443,
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
@@ -1360,518 +1870,8 @@
     },
     {
       "type": "trojan",
-      "tag": "新加坡-03",
-      "server": "108.162.192.3",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-04",
-      "server": "162.159.0.6",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-05",
-      "server": "108.162.192.2",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-06",
-      "server": "172.64.32.2",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-07",
-      "server": "162.159.0.4",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-08",
-      "server": "172.64.32.8",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-09",
-      "server": "172.64.32.5",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-10",
-      "server": "162.159.0.5",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-11",
-      "server": "108.162.192.4",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-12",
-      "server": "162.159.0.7",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-13",
-      "server": "108.162.192.1",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-14",
-      "server": "162.159.0.3",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-15",
-      "server": "162.159.0.2",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-16",
-      "server": "108.162.192.7",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-17",
-      "server": "108.162.192.9",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-18",
-      "server": "172.64.32.7",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-19",
-      "server": "162.159.0.1",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-20",
-      "server": "172.64.32.6",
+      "tag": "优选域名-03",
+      "server": "cdn.204910.best",
       "server_port": 443,
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
