@@ -1,0 +1,50 @@
+name: Update cf-b64.txt Hourly
+
+# 触发条件：定时任务（每小时UTC时间0分）和手动触发
+on:
+  schedule:
+    # 每小时运行一次（UTC时间0分），对应北京时间上午8点、下午4点等
+    - cron: '0 * * * *'
+  # 允许在Actions页面手动触发，方便测试
+  workflow_dispatch:
+
+# 设置权限，允许工作流推送到仓库
+permissions:
+  contents: write
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 检出仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # 必须获取完整历史记录，否则无法推送
+          fetch-depth: 0
+
+      # 2. 下载内容并保存到cf-b64.txt
+      - name: Download and save content
+        run: |
+          # 使用curl下载内容，-L跟随重定向，-s静默模式，-o指定输出文件
+          curl -Ls "https://www.6-9f8.workers.dev/e258977b-e413-4718-a3af-02d75492c349/sub" -o cf-b64.txt
+          echo "Content downloaded and saved to cf-b64.txt"
+
+      # 3. 配置Git用户信息（用于提交）
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 4. 提交并推送更改
+      - name: Commit and push changes
+        run: |
+          # 检查文件是否有变化
+          if [[ -n $(git diff cf-b64.txt) ]]; then
+            git add cf-b64.txt
+            git commit -m "Automated update: Hourly cf-b64.txt content update [skip ci]"
+            git push
+            echo "Changes committed and pushed successfully."
+          else
+            echo "No changes detected in cf-b64.txt. Nothing to commit."
+          fi
