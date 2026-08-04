@@ -58,57 +58,6 @@ dns:
       - 240.0.0.0/4
 
 proxies:
-  - name: "优选域名-01"
-    type: trojan
-    server: "openai.com"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "优选域名-02"
-    type: trojan
-    server: "www.5h.com"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "优选域名-03"
-    type: trojan
-    server: "cdn.204910.best"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.6-9f8.workers.dev"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.6-9f8.workers.dev"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
   - name: "新加坡-01"
     type: trojan
     server: "172.64.32.1"
@@ -435,6 +384,57 @@ proxies:
   - name: "新加坡-20"
     type: trojan
     server: "172.64.32.6"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "优选域名-01"
+    type: trojan
+    server: "openai.com"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "优选域名-02"
+    type: trojan
+    server: "www.5h.com"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.6-9f8.workers.dev"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.6-9f8.workers.dev"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "优选域名-03"
+    type: trojan
+    server: "cdn.204910.best"
     port: 443
     password: "e258977b-e413-4718-a3af-02d75492c349"
     udp: true
@@ -778,9 +778,6 @@ proxy-groups:
     type: select
     proxies:
       - "🎯 全球直连"
-      - "优选域名-01"
-      - "优选域名-02"
-      - "优选域名-03"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -801,6 +798,9 @@ proxy-groups:
       - "新加坡-18"
       - "新加坡-19"
       - "新加坡-20"
+      - "优选域名-01"
+      - "优选域名-02"
+      - "优选域名-03"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -825,9 +825,6 @@ proxy-groups:
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "优选域名-01"
-      - "优选域名-02"
-      - "优选域名-03"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -848,6 +845,9 @@ proxy-groups:
       - "新加坡-18"
       - "新加坡-19"
       - "新加坡-20"
+      - "优选域名-01"
+      - "优选域名-02"
+      - "优选域名-03"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -872,9 +872,6 @@ proxy-groups:
     proxies:
       - "🎯 全球直连"
       - "🚀 节点选择"
-      - "优选域名-01"
-      - "优选域名-02"
-      - "优选域名-03"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -895,6 +892,9 @@ proxy-groups:
       - "新加坡-18"
       - "新加坡-19"
       - "新加坡-20"
+      - "优选域名-01"
+      - "优选域名-02"
+      - "优选域名-03"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -920,9 +920,6 @@ proxy-groups:
       - "🚀 节点选择"
       - "🎯 全球直连"
       - "🌍 国外媒体"
-      - "优选域名-01"
-      - "优选域名-02"
-      - "优选域名-03"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -943,6 +940,9 @@ proxy-groups:
       - "新加坡-18"
       - "新加坡-19"
       - "新加坡-20"
+      - "优选域名-01"
+      - "优选域名-02"
+      - "优选域名-03"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -968,9 +968,6 @@ proxy-groups:
       - "🚀 节点选择"
       - "🎯 全球直连"
       - "🌍 国外媒体"
-      - "优选域名-01"
-      - "优选域名-02"
-      - "优选域名-03"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -991,6 +988,9 @@ proxy-groups:
       - "新加坡-18"
       - "新加坡-19"
       - "新加坡-20"
+      - "优选域名-01"
+      - "优选域名-02"
+      - "优选域名-03"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1015,9 +1015,6 @@ proxy-groups:
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "优选域名-01"
-      - "优选域名-02"
-      - "优选域名-03"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1038,6 +1035,9 @@ proxy-groups:
       - "新加坡-18"
       - "新加坡-19"
       - "新加坡-20"
+      - "优选域名-01"
+      - "优选域名-02"
+      - "优选域名-03"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1062,9 +1062,6 @@ proxy-groups:
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "优选域名-01"
-      - "优选域名-02"
-      - "优选域名-03"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1085,6 +1082,9 @@ proxy-groups:
       - "新加坡-18"
       - "新加坡-19"
       - "新加坡-20"
+      - "优选域名-01"
+      - "优选域名-02"
+      - "优选域名-03"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1109,9 +1109,6 @@ proxy-groups:
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "优选域名-01"
-      - "优选域名-02"
-      - "优选域名-03"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1132,6 +1129,9 @@ proxy-groups:
       - "新加坡-18"
       - "新加坡-19"
       - "新加坡-20"
+      - "优选域名-01"
+      - "优选域名-02"
+      - "优选域名-03"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1156,9 +1156,6 @@ proxy-groups:
     proxies:
       - "🎯 全球直连"
       - "🚀 节点选择"
-      - "优选域名-01"
-      - "优选域名-02"
-      - "优选域名-03"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1179,6 +1176,9 @@ proxy-groups:
       - "新加坡-18"
       - "新加坡-19"
       - "新加坡-20"
+      - "优选域名-01"
+      - "优选域名-02"
+      - "优选域名-03"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1203,9 +1203,6 @@ proxy-groups:
     proxies:
       - "🎯 全球直连"
       - "🚀 节点选择"
-      - "优选域名-01"
-      - "优选域名-02"
-      - "优选域名-03"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1226,6 +1223,9 @@ proxy-groups:
       - "新加坡-18"
       - "新加坡-19"
       - "新加坡-20"
+      - "优选域名-01"
+      - "优选域名-02"
+      - "优选域名-03"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1264,9 +1264,6 @@ proxy-groups:
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "优选域名-01"
-      - "优选域名-02"
-      - "优选域名-03"
       - "新加坡-01"
       - "新加坡-02"
       - "新加坡-03"
@@ -1287,6 +1284,9 @@ proxy-groups:
       - "新加坡-18"
       - "新加坡-19"
       - "新加坡-20"
+      - "优选域名-01"
+      - "优选域名-02"
+      - "优选域名-03"
       - "日本-01"
       - "日本-02"
       - "日本-03"
