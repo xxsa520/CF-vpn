@@ -24,29 +24,29 @@ jobs:
           echo "Starting download of all subscription files..."
           
           # --- 下载原有的文件 ---
-          curl -Ls "https://www.6-9f8.workers.dev/e258977b-e413-4718-a3af-02d75492c349/sub" -o cf-b64.txt
+          curl -Ls "https://www.x9527.xyz/e258977b-e413-4718-a3af-02d75492c349/sub" -o cf-b64.txt
           echo "✓ cf-b64.txt downloaded"
           
           # --- 下载新增的5个文件 ---
           
           # 下载 Clash 格式
-          curl -Ls "https://www.6-9f8.workers.dev/e258977b-e413-4718-a3af-02d75492c349/sub?target=clash" -o clash-stash.txt
+          curl -Ls "https://www.x9527.xyz/e258977b-e413-4718-a3af-02d75492c349/sub?target=clash" -o clash-stash.txt
           echo "✓ clash-stash.txt downloaded"
           
           # 下载 Surge 格式
-          curl -Ls "https://www.6-9f8.workers.dev/e258977b-e413-4718-a3af-02d75492c349/sub?target=surge" -o surge.txt
+          curl -Ls "https://www.x9527.xyz/e258977b-e413-4718-a3af-02d75492c349/sub?target=surge" -o surge.txt
           echo "✓ surge.txt downloaded"
           
           # 下载 Sing-box 格式
-          curl -Ls "https://www.6-9f8.workers.dev/e258977b-e413-4718-a3af-02d75492c349/sub?target=singbox" -o singbox.txt
+          curl -Ls "https://www.x9527.xyz/e258977b-e413-4718-a3af-02d75492c349/sub?target=singbox" -o singbox.txt
           echo "✓ singbox.txt downloaded"
           
           # 下载 Loon 格式
-          curl -Ls "https://www.6-9f8.workers.dev/e258977b-e413-4718-a3af-02d75492c349/sub?target=loon" -o loon.txt
+          curl -Ls "https://www.x9527.xyz/e258977b-e413-4718-a3af-02d75492c349/sub?target=loon" -o loon.txt
           echo "✓ loon.txt downloaded"
           
           # 下载 Quantumult X 格式
-          curl -Ls "https://www.6-9f8.workers.dev/e258977b-e413-4718-a3af-02d75492c349/sub?target=quanx" -o quanx.txt
+          curl -Ls "https://www.x9527.xyz/e258977b-e413-4718-a3af-02d75492c349/sub?target=quanx" -o quanx.txt
           echo "✓ quanx.txt downloaded"
           
           echo "All files downloaded successfully!"
