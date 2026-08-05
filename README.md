@@ -21,7 +21,7 @@
 ## 📝 使用说明
 
 1.  **复制链接**：在上表中找到你客户端对应的 **链接** 鼠标指针放到“链接”上，点击鼠标右键，选择“复制链接”即可复制到剪切板。
-2.  **打开客户端**：进入你的代理软件（如 Clash、Surge、Loon 等）的配置或订阅页面，安卓与电脑推荐使用“karing”软件并选择“Base64 (通用)”订阅使用，软件的github下载[链接](https://github.com/KaringX/karing/releases/) , 另外iPhone手机推荐使用小火箭（shadowrocket），软件自行下载。
+2.  **打开客户端**：进入你的代理软件（如 Clash、Surge、Loon 等）的配置或订阅页面，安卓与电脑推荐使用“karing”软件并选择“Base64 (通用)”订阅使用，karing软件的github下载[链接](https://github.com/KaringX/karing/releases/) , 另外iPhone手机推荐使用小火箭（shadowrocket），软件自行下载。
 3.  **添加订阅**：粘贴链接并下载/更新即可。
 
 > ⚠️ **注意**：如果 CDN 链接无法访问，请尝试使用 **Raw 原始链接**。
