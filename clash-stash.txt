@@ -58,346 +58,6 @@ dns:
       - 240.0.0.0/4
 
 proxies:
-  - name: "新加坡-01"
-    type: trojan
-    server: "172.64.32.1"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-02"
-    type: trojan
-    server: "108.162.192.8"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-03"
-    type: trojan
-    server: "108.162.192.3"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-04"
-    type: trojan
-    server: "162.159.0.6"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-05"
-    type: trojan
-    server: "108.162.192.2"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-06"
-    type: trojan
-    server: "172.64.32.2"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-07"
-    type: trojan
-    server: "162.159.0.4"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-08"
-    type: trojan
-    server: "172.64.32.8"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-09"
-    type: trojan
-    server: "172.64.32.5"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-10"
-    type: trojan
-    server: "162.159.0.5"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-11"
-    type: trojan
-    server: "108.162.192.4"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-12"
-    type: trojan
-    server: "162.159.0.7"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-13"
-    type: trojan
-    server: "108.162.192.1"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-14"
-    type: trojan
-    server: "162.159.0.3"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-15"
-    type: trojan
-    server: "162.159.0.2"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-16"
-    type: trojan
-    server: "108.162.192.7"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-17"
-    type: trojan
-    server: "108.162.192.9"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-18"
-    type: trojan
-    server: "172.64.32.7"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-19"
-    type: trojan
-    server: "162.159.0.1"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
-  - name: "新加坡-20"
-    type: trojan
-    server: "172.64.32.6"
-    port: 443
-    password: "e258977b-e413-4718-a3af-02d75492c349"
-    udp: true
-    client-fingerprint: "chrome"
-    servername: "www.x9527.xyz"
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "www.x9527.xyz"
-    ech-opts:
-      enable: true
-      query-server-name: "cloudflare-ech.com"
   - name: "日本-01"
     type: trojan
     server: "108.162.198.18"
@@ -772,32 +432,352 @@ proxies:
     ech-opts:
       enable: true
       query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-01"
+    type: trojan
+    server: "172.64.32.1"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-02"
+    type: trojan
+    server: "108.162.192.8"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-03"
+    type: trojan
+    server: "108.162.192.3"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-04"
+    type: trojan
+    server: "162.159.0.6"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-05"
+    type: trojan
+    server: "108.162.192.2"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-06"
+    type: trojan
+    server: "172.64.32.2"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-07"
+    type: trojan
+    server: "162.159.0.4"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-08"
+    type: trojan
+    server: "172.64.32.8"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-09"
+    type: trojan
+    server: "172.64.32.5"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-10"
+    type: trojan
+    server: "162.159.0.5"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-11"
+    type: trojan
+    server: "108.162.192.4"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-12"
+    type: trojan
+    server: "162.159.0.7"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-13"
+    type: trojan
+    server: "108.162.192.1"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-14"
+    type: trojan
+    server: "162.159.0.3"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-15"
+    type: trojan
+    server: "162.159.0.2"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-16"
+    type: trojan
+    server: "108.162.192.7"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-17"
+    type: trojan
+    server: "108.162.192.9"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-18"
+    type: trojan
+    server: "172.64.32.7"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-19"
+    type: trojan
+    server: "162.159.0.1"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
+  - name: "新加坡-20"
+    type: trojan
+    server: "172.64.32.6"
+    port: 443
+    password: "e258977b-e413-4718-a3af-02d75492c349"
+    udp: true
+    client-fingerprint: "chrome"
+    servername: "www.x9527.xyz"
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: "www.x9527.xyz"
+    ech-opts:
+      enable: true
+      query-server-name: "cloudflare-ech.com"
 
 proxy-groups:
   - name: "🚀 节点选择"
     type: select
     proxies:
       - "🎯 全球直连"
-      - "新加坡-01"
-      - "新加坡-02"
-      - "新加坡-03"
-      - "新加坡-04"
-      - "新加坡-05"
-      - "新加坡-06"
-      - "新加坡-07"
-      - "新加坡-08"
-      - "新加坡-09"
-      - "新加坡-10"
-      - "新加坡-11"
-      - "新加坡-12"
-      - "新加坡-13"
-      - "新加坡-14"
-      - "新加坡-15"
-      - "新加坡-16"
-      - "新加坡-17"
-      - "新加坡-18"
-      - "新加坡-19"
-      - "新加坡-20"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -820,31 +800,31 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "新加坡-01"
+      - "新加坡-02"
+      - "新加坡-03"
+      - "新加坡-04"
+      - "新加坡-05"
+      - "新加坡-06"
+      - "新加坡-07"
+      - "新加坡-08"
+      - "新加坡-09"
+      - "新加坡-10"
+      - "新加坡-11"
+      - "新加坡-12"
+      - "新加坡-13"
+      - "新加坡-14"
+      - "新加坡-15"
+      - "新加坡-16"
+      - "新加坡-17"
+      - "新加坡-18"
+      - "新加坡-19"
+      - "新加坡-20"
   - name: "🌍 国外媒体"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "新加坡-01"
-      - "新加坡-02"
-      - "新加坡-03"
-      - "新加坡-04"
-      - "新加坡-05"
-      - "新加坡-06"
-      - "新加坡-07"
-      - "新加坡-08"
-      - "新加坡-09"
-      - "新加坡-10"
-      - "新加坡-11"
-      - "新加坡-12"
-      - "新加坡-13"
-      - "新加坡-14"
-      - "新加坡-15"
-      - "新加坡-16"
-      - "新加坡-17"
-      - "新加坡-18"
-      - "新加坡-19"
-      - "新加坡-20"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -867,31 +847,31 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "新加坡-01"
+      - "新加坡-02"
+      - "新加坡-03"
+      - "新加坡-04"
+      - "新加坡-05"
+      - "新加坡-06"
+      - "新加坡-07"
+      - "新加坡-08"
+      - "新加坡-09"
+      - "新加坡-10"
+      - "新加坡-11"
+      - "新加坡-12"
+      - "新加坡-13"
+      - "新加坡-14"
+      - "新加坡-15"
+      - "新加坡-16"
+      - "新加坡-17"
+      - "新加坡-18"
+      - "新加坡-19"
+      - "新加坡-20"
   - name: "📺 哔哩哔哩"
     type: select
     proxies:
       - "🎯 全球直连"
       - "🚀 节点选择"
-      - "新加坡-01"
-      - "新加坡-02"
-      - "新加坡-03"
-      - "新加坡-04"
-      - "新加坡-05"
-      - "新加坡-06"
-      - "新加坡-07"
-      - "新加坡-08"
-      - "新加坡-09"
-      - "新加坡-10"
-      - "新加坡-11"
-      - "新加坡-12"
-      - "新加坡-13"
-      - "新加坡-14"
-      - "新加坡-15"
-      - "新加坡-16"
-      - "新加坡-17"
-      - "新加坡-18"
-      - "新加坡-19"
-      - "新加坡-20"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -914,32 +894,32 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "新加坡-01"
+      - "新加坡-02"
+      - "新加坡-03"
+      - "新加坡-04"
+      - "新加坡-05"
+      - "新加坡-06"
+      - "新加坡-07"
+      - "新加坡-08"
+      - "新加坡-09"
+      - "新加坡-10"
+      - "新加坡-11"
+      - "新加坡-12"
+      - "新加坡-13"
+      - "新加坡-14"
+      - "新加坡-15"
+      - "新加坡-16"
+      - "新加坡-17"
+      - "新加坡-18"
+      - "新加坡-19"
+      - "新加坡-20"
   - name: "📹 油管视频"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
       - "🌍 国外媒体"
-      - "新加坡-01"
-      - "新加坡-02"
-      - "新加坡-03"
-      - "新加坡-04"
-      - "新加坡-05"
-      - "新加坡-06"
-      - "新加坡-07"
-      - "新加坡-08"
-      - "新加坡-09"
-      - "新加坡-10"
-      - "新加坡-11"
-      - "新加坡-12"
-      - "新加坡-13"
-      - "新加坡-14"
-      - "新加坡-15"
-      - "新加坡-16"
-      - "新加坡-17"
-      - "新加坡-18"
-      - "新加坡-19"
-      - "新加坡-20"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -962,32 +942,32 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "新加坡-01"
+      - "新加坡-02"
+      - "新加坡-03"
+      - "新加坡-04"
+      - "新加坡-05"
+      - "新加坡-06"
+      - "新加坡-07"
+      - "新加坡-08"
+      - "新加坡-09"
+      - "新加坡-10"
+      - "新加坡-11"
+      - "新加坡-12"
+      - "新加坡-13"
+      - "新加坡-14"
+      - "新加坡-15"
+      - "新加坡-16"
+      - "新加坡-17"
+      - "新加坡-18"
+      - "新加坡-19"
+      - "新加坡-20"
   - name: "🎬 奈飞视频"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
       - "🌍 国外媒体"
-      - "新加坡-01"
-      - "新加坡-02"
-      - "新加坡-03"
-      - "新加坡-04"
-      - "新加坡-05"
-      - "新加坡-06"
-      - "新加坡-07"
-      - "新加坡-08"
-      - "新加坡-09"
-      - "新加坡-10"
-      - "新加坡-11"
-      - "新加坡-12"
-      - "新加坡-13"
-      - "新加坡-14"
-      - "新加坡-15"
-      - "新加坡-16"
-      - "新加坡-17"
-      - "新加坡-18"
-      - "新加坡-19"
-      - "新加坡-20"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1010,31 +990,31 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "新加坡-01"
+      - "新加坡-02"
+      - "新加坡-03"
+      - "新加坡-04"
+      - "新加坡-05"
+      - "新加坡-06"
+      - "新加坡-07"
+      - "新加坡-08"
+      - "新加坡-09"
+      - "新加坡-10"
+      - "新加坡-11"
+      - "新加坡-12"
+      - "新加坡-13"
+      - "新加坡-14"
+      - "新加坡-15"
+      - "新加坡-16"
+      - "新加坡-17"
+      - "新加坡-18"
+      - "新加坡-19"
+      - "新加坡-20"
   - name: "📲 电报信息"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "新加坡-01"
-      - "新加坡-02"
-      - "新加坡-03"
-      - "新加坡-04"
-      - "新加坡-05"
-      - "新加坡-06"
-      - "新加坡-07"
-      - "新加坡-08"
-      - "新加坡-09"
-      - "新加坡-10"
-      - "新加坡-11"
-      - "新加坡-12"
-      - "新加坡-13"
-      - "新加坡-14"
-      - "新加坡-15"
-      - "新加坡-16"
-      - "新加坡-17"
-      - "新加坡-18"
-      - "新加坡-19"
-      - "新加坡-20"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1057,31 +1037,31 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "新加坡-01"
+      - "新加坡-02"
+      - "新加坡-03"
+      - "新加坡-04"
+      - "新加坡-05"
+      - "新加坡-06"
+      - "新加坡-07"
+      - "新加坡-08"
+      - "新加坡-09"
+      - "新加坡-10"
+      - "新加坡-11"
+      - "新加坡-12"
+      - "新加坡-13"
+      - "新加坡-14"
+      - "新加坡-15"
+      - "新加坡-16"
+      - "新加坡-17"
+      - "新加坡-18"
+      - "新加坡-19"
+      - "新加坡-20"
   - name: "🌐 谷歌服务"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "新加坡-01"
-      - "新加坡-02"
-      - "新加坡-03"
-      - "新加坡-04"
-      - "新加坡-05"
-      - "新加坡-06"
-      - "新加坡-07"
-      - "新加坡-08"
-      - "新加坡-09"
-      - "新加坡-10"
-      - "新加坡-11"
-      - "新加坡-12"
-      - "新加坡-13"
-      - "新加坡-14"
-      - "新加坡-15"
-      - "新加坡-16"
-      - "新加坡-17"
-      - "新加坡-18"
-      - "新加坡-19"
-      - "新加坡-20"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1104,31 +1084,31 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "新加坡-01"
+      - "新加坡-02"
+      - "新加坡-03"
+      - "新加坡-04"
+      - "新加坡-05"
+      - "新加坡-06"
+      - "新加坡-07"
+      - "新加坡-08"
+      - "新加坡-09"
+      - "新加坡-10"
+      - "新加坡-11"
+      - "新加坡-12"
+      - "新加坡-13"
+      - "新加坡-14"
+      - "新加坡-15"
+      - "新加坡-16"
+      - "新加坡-17"
+      - "新加坡-18"
+      - "新加坡-19"
+      - "新加坡-20"
   - name: "🤖 OpenAI"
     type: select
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "新加坡-01"
-      - "新加坡-02"
-      - "新加坡-03"
-      - "新加坡-04"
-      - "新加坡-05"
-      - "新加坡-06"
-      - "新加坡-07"
-      - "新加坡-08"
-      - "新加坡-09"
-      - "新加坡-10"
-      - "新加坡-11"
-      - "新加坡-12"
-      - "新加坡-13"
-      - "新加坡-14"
-      - "新加坡-15"
-      - "新加坡-16"
-      - "新加坡-17"
-      - "新加坡-18"
-      - "新加坡-19"
-      - "新加坡-20"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1151,31 +1131,31 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "新加坡-01"
+      - "新加坡-02"
+      - "新加坡-03"
+      - "新加坡-04"
+      - "新加坡-05"
+      - "新加坡-06"
+      - "新加坡-07"
+      - "新加坡-08"
+      - "新加坡-09"
+      - "新加坡-10"
+      - "新加坡-11"
+      - "新加坡-12"
+      - "新加坡-13"
+      - "新加坡-14"
+      - "新加坡-15"
+      - "新加坡-16"
+      - "新加坡-17"
+      - "新加坡-18"
+      - "新加坡-19"
+      - "新加坡-20"
   - name: "Ⓜ️ 微软服务"
     type: select
     proxies:
       - "🎯 全球直连"
       - "🚀 节点选择"
-      - "新加坡-01"
-      - "新加坡-02"
-      - "新加坡-03"
-      - "新加坡-04"
-      - "新加坡-05"
-      - "新加坡-06"
-      - "新加坡-07"
-      - "新加坡-08"
-      - "新加坡-09"
-      - "新加坡-10"
-      - "新加坡-11"
-      - "新加坡-12"
-      - "新加坡-13"
-      - "新加坡-14"
-      - "新加坡-15"
-      - "新加坡-16"
-      - "新加坡-17"
-      - "新加坡-18"
-      - "新加坡-19"
-      - "新加坡-20"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1198,31 +1178,31 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "新加坡-01"
+      - "新加坡-02"
+      - "新加坡-03"
+      - "新加坡-04"
+      - "新加坡-05"
+      - "新加坡-06"
+      - "新加坡-07"
+      - "新加坡-08"
+      - "新加坡-09"
+      - "新加坡-10"
+      - "新加坡-11"
+      - "新加坡-12"
+      - "新加坡-13"
+      - "新加坡-14"
+      - "新加坡-15"
+      - "新加坡-16"
+      - "新加坡-17"
+      - "新加坡-18"
+      - "新加坡-19"
+      - "新加坡-20"
   - name: "🍎 苹果服务"
     type: select
     proxies:
       - "🎯 全球直连"
       - "🚀 节点选择"
-      - "新加坡-01"
-      - "新加坡-02"
-      - "新加坡-03"
-      - "新加坡-04"
-      - "新加坡-05"
-      - "新加坡-06"
-      - "新加坡-07"
-      - "新加坡-08"
-      - "新加坡-09"
-      - "新加坡-10"
-      - "新加坡-11"
-      - "新加坡-12"
-      - "新加坡-13"
-      - "新加坡-14"
-      - "新加坡-15"
-      - "新加坡-16"
-      - "新加坡-17"
-      - "新加坡-18"
-      - "新加坡-19"
-      - "新加坡-20"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1245,6 +1225,26 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "新加坡-01"
+      - "新加坡-02"
+      - "新加坡-03"
+      - "新加坡-04"
+      - "新加坡-05"
+      - "新加坡-06"
+      - "新加坡-07"
+      - "新加坡-08"
+      - "新加坡-09"
+      - "新加坡-10"
+      - "新加坡-11"
+      - "新加坡-12"
+      - "新加坡-13"
+      - "新加坡-14"
+      - "新加坡-15"
+      - "新加坡-16"
+      - "新加坡-17"
+      - "新加坡-18"
+      - "新加坡-19"
+      - "新加坡-20"
   - name: "🎯 全球直连"
     type: select
     proxies:
@@ -1264,26 +1264,6 @@ proxy-groups:
     proxies:
       - "🚀 节点选择"
       - "🎯 全球直连"
-      - "新加坡-01"
-      - "新加坡-02"
-      - "新加坡-03"
-      - "新加坡-04"
-      - "新加坡-05"
-      - "新加坡-06"
-      - "新加坡-07"
-      - "新加坡-08"
-      - "新加坡-09"
-      - "新加坡-10"
-      - "新加坡-11"
-      - "新加坡-12"
-      - "新加坡-13"
-      - "新加坡-14"
-      - "新加坡-15"
-      - "新加坡-16"
-      - "新加坡-17"
-      - "新加坡-18"
-      - "新加坡-19"
-      - "新加坡-20"
       - "日本-01"
       - "日本-02"
       - "日本-03"
@@ -1306,6 +1286,26 @@ proxy-groups:
       - "优选域名-01"
       - "优选域名-02"
       - "优选域名-03"
+      - "新加坡-01"
+      - "新加坡-02"
+      - "新加坡-03"
+      - "新加坡-04"
+      - "新加坡-05"
+      - "新加坡-06"
+      - "新加坡-07"
+      - "新加坡-08"
+      - "新加坡-09"
+      - "新加坡-10"
+      - "新加坡-11"
+      - "新加坡-12"
+      - "新加坡-13"
+      - "新加坡-14"
+      - "新加坡-15"
+      - "新加坡-16"
+      - "新加坡-17"
+      - "新加坡-18"
+      - "新加坡-19"
+      - "新加坡-20"
 
 rule-providers:
   reject:
