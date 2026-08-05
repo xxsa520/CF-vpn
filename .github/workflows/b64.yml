@@ -34,15 +34,15 @@ jobs:
           echo "✓ clash-stash.txt downloaded"
           
           # 下载 Surge 格式
-          curl -Ls "https://www.x9527.xyz/e258977b-e413-4718-a3af-02d75492c349/sub?target=surge" -o surge.txt
+          curl -Ls "https://all.xmm1993.top/sub?token=123&surge" -o surge.txt
           echo "✓ surge.txt downloaded"
           
           # 下载 Sing-box 格式
-          curl -Ls "https://www.x9527.xyz/e258977b-e413-4718-a3af-02d75492c349/sub?target=singbox" -o singbox.txt
+          curl -Ls "https://all.xmm1993.top/sub?token=123&sb" -o singbox.txt
           echo "✓ singbox.txt downloaded"
           
           # 下载 Loon 格式
-          curl -Ls "https://www.x9527.xyz/e258977b-e413-4718-a3af-02d75492c349/sub?target=loon" -o loon.txt
+          curl -Ls "https://all.xmm1993.top/sub?token=123&loon" -o loon.txt
           echo "✓ loon.txt downloaded"
           
           # 下载 Quantumult X 格式
