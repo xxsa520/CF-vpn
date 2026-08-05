@@ -30,7 +30,7 @@ jobs:
           # --- 下载新增的5个文件 ---
           
           # 下载 Clash 格式
-          curl -Ls "https://www.x9527.xyz/e258977b-e413-4718-a3af-02d75492c349/sub?target=clash" -o clash-stash.txt
+          curl -Ls "https://all.xmm1993.top/sub?token=123&clash" -o clash-stash.txt
           echo "✓ clash-stash.txt downloaded"
           
           # 下载 Surge 格式
