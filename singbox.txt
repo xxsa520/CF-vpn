@@ -84,9 +84,6 @@
       "tag": "select",
       "outbounds": [
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -107,6 +104,9 @@
         "新加坡-18",
         "新加坡-19",
         "新加坡-20",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -127,7 +127,7 @@
         "日本-18",
         "日本-19"
       ],
-      "default": "优选域名-01"
+      "default": "新加坡-01"
     },
     {
       "type": "selector",
@@ -135,9 +135,6 @@
       "outbounds": [
         "select",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -158,6 +155,9 @@
         "新加坡-18",
         "新加坡-19",
         "新加坡-20",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -185,9 +185,6 @@
       "outbounds": [
         "select",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -208,6 +205,9 @@
         "新加坡-18",
         "新加坡-19",
         "新加坡-20",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -235,9 +235,6 @@
       "outbounds": [
         "select",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -258,6 +255,9 @@
         "新加坡-18",
         "新加坡-19",
         "新加坡-20",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -285,9 +285,6 @@
       "outbounds": [
         "select",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -308,6 +305,9 @@
         "新加坡-18",
         "新加坡-19",
         "新加坡-20",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -335,9 +335,6 @@
       "outbounds": [
         "direct",
         "select",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -358,6 +355,9 @@
         "新加坡-18",
         "新加坡-19",
         "新加坡-20",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -385,9 +385,6 @@
       "outbounds": [
         "direct",
         "select",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -408,6 +405,9 @@
         "新加坡-18",
         "新加坡-19",
         "新加坡-20",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -435,9 +435,6 @@
       "outbounds": [
         "direct",
         "select",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -458,6 +455,9 @@
         "新加坡-18",
         "新加坡-19",
         "新加坡-20",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -486,9 +486,6 @@
         "select",
         "🌍 国外媒体",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -509,6 +506,9 @@
         "新加坡-18",
         "新加坡-19",
         "新加坡-20",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -537,9 +537,6 @@
         "select",
         "🌍 国外媒体",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -560,6 +557,9 @@
         "新加坡-18",
         "新加坡-19",
         "新加坡-20",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -594,9 +594,6 @@
       "outbounds": [
         "select",
         "direct",
-        "优选域名-01",
-        "优选域名-02",
-        "优选域名-03",
         "新加坡-01",
         "新加坡-02",
         "新加坡-03",
@@ -617,6 +614,9 @@
         "新加坡-18",
         "新加坡-19",
         "新加坡-20",
+        "优选域名-01",
+        "优选域名-02",
+        "优选域名-03",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -640,103 +640,13 @@
     },
     {
       "type": "trojan",
-      "tag": "优选域名-01",
-      "server": "openai.com",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "优选域名-02",
-      "server": "www.5h.com",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "优选域名-03",
-      "server": "cdn.204910.best",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.6-9f8.workers.dev"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
       "tag": "新加坡-01",
       "server": "172.64.32.1",
       "server_port": 443,
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -752,7 +662,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -766,7 +676,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -782,7 +692,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -796,7 +706,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -812,7 +722,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -826,7 +736,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -842,7 +752,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -856,7 +766,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -872,7 +782,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -886,7 +796,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -902,7 +812,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -916,7 +826,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -932,7 +842,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -946,7 +856,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -962,7 +872,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -976,7 +886,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -992,7 +902,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1006,7 +916,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1022,7 +932,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1036,7 +946,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1052,7 +962,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1066,7 +976,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1082,7 +992,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1096,7 +1006,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1112,7 +1022,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1126,7 +1036,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1142,7 +1052,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1156,7 +1066,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1172,7 +1082,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1186,7 +1096,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1202,7 +1112,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1216,7 +1126,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1232,7 +1142,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1246,7 +1156,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1262,7 +1172,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1276,7 +1186,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1292,7 +1202,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1306,7 +1216,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1322,7 +1232,97 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "优选域名-01",
+      "server": "openai.com",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "优选域名-02",
+      "server": "www.5h.com",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "优选域名-03",
+      "server": "cdn.204910.best",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1336,7 +1336,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1352,7 +1352,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1366,7 +1366,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1382,7 +1382,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1396,7 +1396,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1412,7 +1412,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1426,7 +1426,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1442,7 +1442,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1456,7 +1456,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1472,7 +1472,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1486,7 +1486,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1502,7 +1502,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1516,7 +1516,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1532,7 +1532,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1546,7 +1546,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1562,7 +1562,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1576,7 +1576,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1592,7 +1592,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1606,7 +1606,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1622,7 +1622,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1636,7 +1636,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1652,7 +1652,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1666,7 +1666,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1682,7 +1682,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1696,7 +1696,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1712,7 +1712,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1726,7 +1726,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1742,7 +1742,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1756,7 +1756,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1772,7 +1772,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1786,7 +1786,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1802,7 +1802,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1816,7 +1816,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1832,7 +1832,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1846,7 +1846,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1862,7 +1862,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1876,7 +1876,7 @@
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
         "enabled": true,
-        "server_name": "www.6-9f8.workers.dev",
+        "server_name": "www.x9527.xyz",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1892,7 +1892,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "www.6-9f8.workers.dev"
+          "Host": "www.x9527.xyz"
         },
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
