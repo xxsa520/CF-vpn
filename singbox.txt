@@ -84,6 +84,26 @@
       "tag": "select",
       "outbounds": [
         "direct",
+        "新加坡-01",
+        "新加坡-02",
+        "新加坡-03",
+        "新加坡-04",
+        "新加坡-05",
+        "新加坡-06",
+        "新加坡-07",
+        "新加坡-08",
+        "新加坡-09",
+        "新加坡-10",
+        "新加坡-11",
+        "新加坡-12",
+        "新加坡-13",
+        "新加坡-14",
+        "新加坡-15",
+        "新加坡-16",
+        "新加坡-17",
+        "新加坡-18",
+        "新加坡-19",
+        "新加坡-20",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -105,29 +125,9 @@
         "日本-19",
         "优选域名-01",
         "优选域名-02",
-        "优选域名-03",
-        "新加坡-01",
-        "新加坡-02",
-        "新加坡-03",
-        "新加坡-04",
-        "新加坡-05",
-        "新加坡-06",
-        "新加坡-07",
-        "新加坡-08",
-        "新加坡-09",
-        "新加坡-10",
-        "新加坡-11",
-        "新加坡-12",
-        "新加坡-13",
-        "新加坡-14",
-        "新加坡-15",
-        "新加坡-16",
-        "新加坡-17",
-        "新加坡-18",
-        "新加坡-19",
-        "新加坡-20"
+        "优选域名-03"
       ],
-      "default": "日本-01"
+      "default": "新加坡-01"
     },
     {
       "type": "selector",
@@ -135,6 +135,26 @@
       "outbounds": [
         "select",
         "direct",
+        "新加坡-01",
+        "新加坡-02",
+        "新加坡-03",
+        "新加坡-04",
+        "新加坡-05",
+        "新加坡-06",
+        "新加坡-07",
+        "新加坡-08",
+        "新加坡-09",
+        "新加坡-10",
+        "新加坡-11",
+        "新加坡-12",
+        "新加坡-13",
+        "新加坡-14",
+        "新加坡-15",
+        "新加坡-16",
+        "新加坡-17",
+        "新加坡-18",
+        "新加坡-19",
+        "新加坡-20",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -156,27 +176,7 @@
         "日本-19",
         "优选域名-01",
         "优选域名-02",
-        "优选域名-03",
-        "新加坡-01",
-        "新加坡-02",
-        "新加坡-03",
-        "新加坡-04",
-        "新加坡-05",
-        "新加坡-06",
-        "新加坡-07",
-        "新加坡-08",
-        "新加坡-09",
-        "新加坡-10",
-        "新加坡-11",
-        "新加坡-12",
-        "新加坡-13",
-        "新加坡-14",
-        "新加坡-15",
-        "新加坡-16",
-        "新加坡-17",
-        "新加坡-18",
-        "新加坡-19",
-        "新加坡-20"
+        "优选域名-03"
       ]
     },
     {
@@ -185,6 +185,26 @@
       "outbounds": [
         "select",
         "direct",
+        "新加坡-01",
+        "新加坡-02",
+        "新加坡-03",
+        "新加坡-04",
+        "新加坡-05",
+        "新加坡-06",
+        "新加坡-07",
+        "新加坡-08",
+        "新加坡-09",
+        "新加坡-10",
+        "新加坡-11",
+        "新加坡-12",
+        "新加坡-13",
+        "新加坡-14",
+        "新加坡-15",
+        "新加坡-16",
+        "新加坡-17",
+        "新加坡-18",
+        "新加坡-19",
+        "新加坡-20",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -206,27 +226,7 @@
         "日本-19",
         "优选域名-01",
         "优选域名-02",
-        "优选域名-03",
-        "新加坡-01",
-        "新加坡-02",
-        "新加坡-03",
-        "新加坡-04",
-        "新加坡-05",
-        "新加坡-06",
-        "新加坡-07",
-        "新加坡-08",
-        "新加坡-09",
-        "新加坡-10",
-        "新加坡-11",
-        "新加坡-12",
-        "新加坡-13",
-        "新加坡-14",
-        "新加坡-15",
-        "新加坡-16",
-        "新加坡-17",
-        "新加坡-18",
-        "新加坡-19",
-        "新加坡-20"
+        "优选域名-03"
       ]
     },
     {
@@ -235,6 +235,26 @@
       "outbounds": [
         "select",
         "direct",
+        "新加坡-01",
+        "新加坡-02",
+        "新加坡-03",
+        "新加坡-04",
+        "新加坡-05",
+        "新加坡-06",
+        "新加坡-07",
+        "新加坡-08",
+        "新加坡-09",
+        "新加坡-10",
+        "新加坡-11",
+        "新加坡-12",
+        "新加坡-13",
+        "新加坡-14",
+        "新加坡-15",
+        "新加坡-16",
+        "新加坡-17",
+        "新加坡-18",
+        "新加坡-19",
+        "新加坡-20",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -256,27 +276,7 @@
         "日本-19",
         "优选域名-01",
         "优选域名-02",
-        "优选域名-03",
-        "新加坡-01",
-        "新加坡-02",
-        "新加坡-03",
-        "新加坡-04",
-        "新加坡-05",
-        "新加坡-06",
-        "新加坡-07",
-        "新加坡-08",
-        "新加坡-09",
-        "新加坡-10",
-        "新加坡-11",
-        "新加坡-12",
-        "新加坡-13",
-        "新加坡-14",
-        "新加坡-15",
-        "新加坡-16",
-        "新加坡-17",
-        "新加坡-18",
-        "新加坡-19",
-        "新加坡-20"
+        "优选域名-03"
       ]
     },
     {
@@ -285,6 +285,26 @@
       "outbounds": [
         "select",
         "direct",
+        "新加坡-01",
+        "新加坡-02",
+        "新加坡-03",
+        "新加坡-04",
+        "新加坡-05",
+        "新加坡-06",
+        "新加坡-07",
+        "新加坡-08",
+        "新加坡-09",
+        "新加坡-10",
+        "新加坡-11",
+        "新加坡-12",
+        "新加坡-13",
+        "新加坡-14",
+        "新加坡-15",
+        "新加坡-16",
+        "新加坡-17",
+        "新加坡-18",
+        "新加坡-19",
+        "新加坡-20",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -306,27 +326,7 @@
         "日本-19",
         "优选域名-01",
         "优选域名-02",
-        "优选域名-03",
-        "新加坡-01",
-        "新加坡-02",
-        "新加坡-03",
-        "新加坡-04",
-        "新加坡-05",
-        "新加坡-06",
-        "新加坡-07",
-        "新加坡-08",
-        "新加坡-09",
-        "新加坡-10",
-        "新加坡-11",
-        "新加坡-12",
-        "新加坡-13",
-        "新加坡-14",
-        "新加坡-15",
-        "新加坡-16",
-        "新加坡-17",
-        "新加坡-18",
-        "新加坡-19",
-        "新加坡-20"
+        "优选域名-03"
       ]
     },
     {
@@ -335,6 +335,26 @@
       "outbounds": [
         "direct",
         "select",
+        "新加坡-01",
+        "新加坡-02",
+        "新加坡-03",
+        "新加坡-04",
+        "新加坡-05",
+        "新加坡-06",
+        "新加坡-07",
+        "新加坡-08",
+        "新加坡-09",
+        "新加坡-10",
+        "新加坡-11",
+        "新加坡-12",
+        "新加坡-13",
+        "新加坡-14",
+        "新加坡-15",
+        "新加坡-16",
+        "新加坡-17",
+        "新加坡-18",
+        "新加坡-19",
+        "新加坡-20",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -356,27 +376,7 @@
         "日本-19",
         "优选域名-01",
         "优选域名-02",
-        "优选域名-03",
-        "新加坡-01",
-        "新加坡-02",
-        "新加坡-03",
-        "新加坡-04",
-        "新加坡-05",
-        "新加坡-06",
-        "新加坡-07",
-        "新加坡-08",
-        "新加坡-09",
-        "新加坡-10",
-        "新加坡-11",
-        "新加坡-12",
-        "新加坡-13",
-        "新加坡-14",
-        "新加坡-15",
-        "新加坡-16",
-        "新加坡-17",
-        "新加坡-18",
-        "新加坡-19",
-        "新加坡-20"
+        "优选域名-03"
       ]
     },
     {
@@ -385,6 +385,26 @@
       "outbounds": [
         "direct",
         "select",
+        "新加坡-01",
+        "新加坡-02",
+        "新加坡-03",
+        "新加坡-04",
+        "新加坡-05",
+        "新加坡-06",
+        "新加坡-07",
+        "新加坡-08",
+        "新加坡-09",
+        "新加坡-10",
+        "新加坡-11",
+        "新加坡-12",
+        "新加坡-13",
+        "新加坡-14",
+        "新加坡-15",
+        "新加坡-16",
+        "新加坡-17",
+        "新加坡-18",
+        "新加坡-19",
+        "新加坡-20",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -406,27 +426,7 @@
         "日本-19",
         "优选域名-01",
         "优选域名-02",
-        "优选域名-03",
-        "新加坡-01",
-        "新加坡-02",
-        "新加坡-03",
-        "新加坡-04",
-        "新加坡-05",
-        "新加坡-06",
-        "新加坡-07",
-        "新加坡-08",
-        "新加坡-09",
-        "新加坡-10",
-        "新加坡-11",
-        "新加坡-12",
-        "新加坡-13",
-        "新加坡-14",
-        "新加坡-15",
-        "新加坡-16",
-        "新加坡-17",
-        "新加坡-18",
-        "新加坡-19",
-        "新加坡-20"
+        "优选域名-03"
       ]
     },
     {
@@ -435,6 +435,26 @@
       "outbounds": [
         "direct",
         "select",
+        "新加坡-01",
+        "新加坡-02",
+        "新加坡-03",
+        "新加坡-04",
+        "新加坡-05",
+        "新加坡-06",
+        "新加坡-07",
+        "新加坡-08",
+        "新加坡-09",
+        "新加坡-10",
+        "新加坡-11",
+        "新加坡-12",
+        "新加坡-13",
+        "新加坡-14",
+        "新加坡-15",
+        "新加坡-16",
+        "新加坡-17",
+        "新加坡-18",
+        "新加坡-19",
+        "新加坡-20",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -456,27 +476,7 @@
         "日本-19",
         "优选域名-01",
         "优选域名-02",
-        "优选域名-03",
-        "新加坡-01",
-        "新加坡-02",
-        "新加坡-03",
-        "新加坡-04",
-        "新加坡-05",
-        "新加坡-06",
-        "新加坡-07",
-        "新加坡-08",
-        "新加坡-09",
-        "新加坡-10",
-        "新加坡-11",
-        "新加坡-12",
-        "新加坡-13",
-        "新加坡-14",
-        "新加坡-15",
-        "新加坡-16",
-        "新加坡-17",
-        "新加坡-18",
-        "新加坡-19",
-        "新加坡-20"
+        "优选域名-03"
       ]
     },
     {
@@ -486,6 +486,26 @@
         "select",
         "🌍 国外媒体",
         "direct",
+        "新加坡-01",
+        "新加坡-02",
+        "新加坡-03",
+        "新加坡-04",
+        "新加坡-05",
+        "新加坡-06",
+        "新加坡-07",
+        "新加坡-08",
+        "新加坡-09",
+        "新加坡-10",
+        "新加坡-11",
+        "新加坡-12",
+        "新加坡-13",
+        "新加坡-14",
+        "新加坡-15",
+        "新加坡-16",
+        "新加坡-17",
+        "新加坡-18",
+        "新加坡-19",
+        "新加坡-20",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -507,27 +527,7 @@
         "日本-19",
         "优选域名-01",
         "优选域名-02",
-        "优选域名-03",
-        "新加坡-01",
-        "新加坡-02",
-        "新加坡-03",
-        "新加坡-04",
-        "新加坡-05",
-        "新加坡-06",
-        "新加坡-07",
-        "新加坡-08",
-        "新加坡-09",
-        "新加坡-10",
-        "新加坡-11",
-        "新加坡-12",
-        "新加坡-13",
-        "新加坡-14",
-        "新加坡-15",
-        "新加坡-16",
-        "新加坡-17",
-        "新加坡-18",
-        "新加坡-19",
-        "新加坡-20"
+        "优选域名-03"
       ]
     },
     {
@@ -537,6 +537,26 @@
         "select",
         "🌍 国外媒体",
         "direct",
+        "新加坡-01",
+        "新加坡-02",
+        "新加坡-03",
+        "新加坡-04",
+        "新加坡-05",
+        "新加坡-06",
+        "新加坡-07",
+        "新加坡-08",
+        "新加坡-09",
+        "新加坡-10",
+        "新加坡-11",
+        "新加坡-12",
+        "新加坡-13",
+        "新加坡-14",
+        "新加坡-15",
+        "新加坡-16",
+        "新加坡-17",
+        "新加坡-18",
+        "新加坡-19",
+        "新加坡-20",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -558,27 +578,7 @@
         "日本-19",
         "优选域名-01",
         "优选域名-02",
-        "优选域名-03",
-        "新加坡-01",
-        "新加坡-02",
-        "新加坡-03",
-        "新加坡-04",
-        "新加坡-05",
-        "新加坡-06",
-        "新加坡-07",
-        "新加坡-08",
-        "新加坡-09",
-        "新加坡-10",
-        "新加坡-11",
-        "新加坡-12",
-        "新加坡-13",
-        "新加坡-14",
-        "新加坡-15",
-        "新加坡-16",
-        "新加坡-17",
-        "新加坡-18",
-        "新加坡-19",
-        "新加坡-20"
+        "优选域名-03"
       ]
     },
     {
@@ -594,6 +594,26 @@
       "outbounds": [
         "select",
         "direct",
+        "新加坡-01",
+        "新加坡-02",
+        "新加坡-03",
+        "新加坡-04",
+        "新加坡-05",
+        "新加坡-06",
+        "新加坡-07",
+        "新加坡-08",
+        "新加坡-09",
+        "新加坡-10",
+        "新加坡-11",
+        "新加坡-12",
+        "新加坡-13",
+        "新加坡-14",
+        "新加坡-15",
+        "新加坡-16",
+        "新加坡-17",
+        "新加坡-18",
+        "新加坡-19",
+        "新加坡-20",
         "日本-01",
         "日本-02",
         "日本-03",
@@ -615,28 +635,608 @@
         "日本-19",
         "优选域名-01",
         "优选域名-02",
-        "优选域名-03",
-        "新加坡-01",
-        "新加坡-02",
-        "新加坡-03",
-        "新加坡-04",
-        "新加坡-05",
-        "新加坡-06",
-        "新加坡-07",
-        "新加坡-08",
-        "新加坡-09",
-        "新加坡-10",
-        "新加坡-11",
-        "新加坡-12",
-        "新加坡-13",
-        "新加坡-14",
-        "新加坡-15",
-        "新加坡-16",
-        "新加坡-17",
-        "新加坡-18",
-        "新加坡-19",
-        "新加坡-20"
+        "优选域名-03"
       ]
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-01",
+      "server": "172.64.32.1",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-02",
+      "server": "108.162.192.8",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-03",
+      "server": "108.162.192.3",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-04",
+      "server": "162.159.0.6",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-05",
+      "server": "108.162.192.2",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-06",
+      "server": "172.64.32.2",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-07",
+      "server": "162.159.0.4",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-08",
+      "server": "172.64.32.8",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-09",
+      "server": "172.64.32.5",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-10",
+      "server": "162.159.0.5",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-11",
+      "server": "108.162.192.4",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-12",
+      "server": "162.159.0.7",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-13",
+      "server": "108.162.192.1",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-14",
+      "server": "162.159.0.3",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-15",
+      "server": "162.159.0.2",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-16",
+      "server": "108.162.192.7",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-17",
+      "server": "108.162.192.9",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-18",
+      "server": "172.64.32.7",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-19",
+      "server": "162.159.0.1",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "新加坡-20",
+      "server": "172.64.32.6",
+      "server_port": 443,
+      "password": "e258977b-e413-4718-a3af-02d75492c349",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.x9527.xyz",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": false,
+          "dynamic_record_sizing_disabled": false
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "www.x9527.xyz"
+        },
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
     },
     {
       "type": "trojan",
@@ -1272,606 +1872,6 @@
       "type": "trojan",
       "tag": "优选域名-03",
       "server": "cdn.204910.best",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-01",
-      "server": "172.64.32.1",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-02",
-      "server": "108.162.192.8",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-03",
-      "server": "108.162.192.3",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-04",
-      "server": "162.159.0.6",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-05",
-      "server": "108.162.192.2",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-06",
-      "server": "172.64.32.2",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-07",
-      "server": "162.159.0.4",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-08",
-      "server": "172.64.32.8",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-09",
-      "server": "172.64.32.5",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-10",
-      "server": "162.159.0.5",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-11",
-      "server": "108.162.192.4",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-12",
-      "server": "162.159.0.7",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-13",
-      "server": "108.162.192.1",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-14",
-      "server": "162.159.0.3",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-15",
-      "server": "162.159.0.2",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-16",
-      "server": "108.162.192.7",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-17",
-      "server": "108.162.192.9",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-18",
-      "server": "172.64.32.7",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-19",
-      "server": "162.159.0.1",
-      "server_port": 443,
-      "password": "e258977b-e413-4718-a3af-02d75492c349",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.x9527.xyz",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "pq_signature_schemes_enabled": false,
-          "dynamic_record_sizing_disabled": false
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "www.x9527.xyz"
-        },
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "新加坡-20",
-      "server": "172.64.32.6",
       "server_port": 443,
       "password": "e258977b-e413-4718-a3af-02d75492c349",
       "tls": {
