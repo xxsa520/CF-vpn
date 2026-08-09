@@ -1,4 +1,4 @@
-#!MANAGED-CONFIG http://127.0.0.1:25500/sub?config=https%3A%2F%2Fraw.githubusercontent.com%2Fcmliu%2FACL4SSR%2Fmain%2FClash%2Fconfig%2FACL4SSR_Online_Full_MultiMode.ini&emoji=true&fdn=false&insert=false&list=false&new_name=true&scv=true&sort=false&target=surge&tfo=false&url=https%3A%2F%2Fall.xmm1993.top%2F112110d43d678fd767c89596c5f19920%3Ftoken%3Dabaab42f7c31140ccbe4e3f0d3d002f6%7C&ver=4 interval=86400 strict=false
+#!MANAGED-CONFIG http://127.0.0.1:25500/sub?config=https%3A%2F%2Fraw.githubusercontent.com%2Fcmliu%2FACL4SSR%2Fmain%2FClash%2Fconfig%2FACL4SSR_Online_Full_MultiMode.ini&emoji=true&fdn=false&insert=false&list=false&new_name=true&scv=true&sort=false&target=surge&tfo=false&url=https%3A%2F%2Fall.xmm1993.top%2F692ca1513a74d76b2e36c9c6bc67d903%3Ftoken%3Dd51208d6cf1c29449a202bcad80fd0c0%7C&ver=4 interval=86400 strict=false
 
 [General]
 loglevel = notify
