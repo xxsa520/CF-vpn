@@ -5,9 +5,25 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 优选域名-01, server: openai.com, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 优选域名-02, server: www.5h.com, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 优选域名-03, server: cdn.204910.best, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-01, server: 108.162.198.18, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-02, server: 108.162.198.19, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-03, server: 108.162.198.12, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-04, server: 108.162.198.13, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-05, server: 108.162.198.16, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-06, server: 108.162.198.2, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-07, server: 108.162.198.7, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-08, server: 108.162.198.1, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-09, server: 108.162.198.17, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-10, server: 108.162.198.11, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-11, server: 108.162.198.9, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-12, server: 108.162.198.8, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-13, server: 108.162.198.3, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-14, server: 108.162.198.4, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-15, server: 108.162.198.10, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-16, server: 108.162.198.5, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-17, server: 108.162.198.6, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-18, server: 108.162.198.14, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 🇯🇵 日本-19, server: 108.162.198.15, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
   - {name: 🇸🇬 新加坡-01, server: 172.64.32.1, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
   - {name: 🇸🇬 新加坡-02, server: 108.162.192.8, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
   - {name: 🇸🇬 新加坡-03, server: 108.162.192.3, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
@@ -28,25 +44,9 @@ proxies:
   - {name: 🇸🇬 新加坡-18, server: 172.64.32.7, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
   - {name: 🇸🇬 新加坡-19, server: 162.159.0.1, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
   - {name: 🇸🇬 新加坡-20, server: 172.64.32.6, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-01, server: 108.162.198.18, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-02, server: 108.162.198.19, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-03, server: 108.162.198.12, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-04, server: 108.162.198.13, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-05, server: 108.162.198.16, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-06, server: 108.162.198.2, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-07, server: 108.162.198.7, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-08, server: 108.162.198.1, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-09, server: 108.162.198.17, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-10, server: 108.162.198.11, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-11, server: 108.162.198.9, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-12, server: 108.162.198.8, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-13, server: 108.162.198.3, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-14, server: 108.162.198.4, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-15, server: 108.162.198.10, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-16, server: 108.162.198.5, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-17, server: 108.162.198.6, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-18, server: 108.162.198.14, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
-  - {name: 🇯🇵 日本-19, server: 108.162.198.15, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 优选域名-01, server: openai.com, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 优选域名-02, server: www.5h.com, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
+  - {name: 优选域名-03, server: cdn.204910.best, port: 443, type: trojan, password: e258977b-e413-4718-a3af-02d75492c349, sni: www.x9527.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.x9527.xyz}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -64,9 +64,25 @@ proxy-groups:
   - name: ☑️ 手动切换
     type: select
     proxies:
-      - 优选域名-01
-      - 优选域名-02
-      - 优选域名-03
+      - 🇯🇵 日本-01
+      - 🇯🇵 日本-02
+      - 🇯🇵 日本-03
+      - 🇯🇵 日本-04
+      - 🇯🇵 日本-05
+      - 🇯🇵 日本-06
+      - 🇯🇵 日本-07
+      - 🇯🇵 日本-08
+      - 🇯🇵 日本-09
+      - 🇯🇵 日本-10
+      - 🇯🇵 日本-11
+      - 🇯🇵 日本-12
+      - 🇯🇵 日本-13
+      - 🇯🇵 日本-14
+      - 🇯🇵 日本-15
+      - 🇯🇵 日本-16
+      - 🇯🇵 日本-17
+      - 🇯🇵 日本-18
+      - 🇯🇵 日本-19
       - 🇸🇬 新加坡-01
       - 🇸🇬 新加坡-02
       - 🇸🇬 新加坡-03
@@ -87,25 +103,9 @@ proxy-groups:
       - 🇸🇬 新加坡-18
       - 🇸🇬 新加坡-19
       - 🇸🇬 新加坡-20
-      - 🇯🇵 日本-01
-      - 🇯🇵 日本-02
-      - 🇯🇵 日本-03
-      - 🇯🇵 日本-04
-      - 🇯🇵 日本-05
-      - 🇯🇵 日本-06
-      - 🇯🇵 日本-07
-      - 🇯🇵 日本-08
-      - 🇯🇵 日本-09
-      - 🇯🇵 日本-10
-      - 🇯🇵 日本-11
-      - 🇯🇵 日本-12
-      - 🇯🇵 日本-13
-      - 🇯🇵 日本-14
-      - 🇯🇵 日本-15
-      - 🇯🇵 日本-16
-      - 🇯🇵 日本-17
-      - 🇯🇵 日本-18
-      - 🇯🇵 日本-19
+      - 优选域名-01
+      - 优选域名-02
+      - 优选域名-03
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
