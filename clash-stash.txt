@@ -15788,6 +15788,7 @@ rules:
   - DOMAIN,27e10lrjk6f.61y77.adobestats.io,🍃 应用净化
   - DOMAIN,picrx8i067.61y77.adobestats.io,🍃 应用净化
   - DOMAIN,bpkh681n1.hmq9r.adobestats.io,🍃 应用净化
+  - DOMAIN,hw7w59pe.ok0r5.adobestats.io,🍃 应用净化
   - DOMAIN-SUFFIX,tonec.com,🍃 应用净化
   - DOMAIN-SUFFIX,registeridm.com,🍃 应用净化
   - DOMAIN-SUFFIX,internetdownloadmanager.com,🍃 应用净化
