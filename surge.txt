@@ -13,12 +13,6 @@ http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.gi
 
 [Proxy]
 DIRECT = direct
-优选域名-01 = trojan, openai.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-优选域名-02 = trojan, tsmc.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-优选域名-03 = trojan, www.5h.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-优选域名-04 = trojan, cdn.204910.best, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-优选域名-05 = trojan, ikea.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-优选域名-06 = trojan, bhp.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 🇸🇬 新加坡-01 = trojan, 172.64.32.1, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 🇸🇬 新加坡-02 = trojan, 108.162.192.8, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 🇸🇬 新加坡-03 = trojan, 108.162.192.3, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
@@ -58,6 +52,12 @@ DIRECT = direct
 🇯🇵 日本-17 = trojan, 108.162.198.6, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 🇯🇵 日本-18 = trojan, 108.162.198.14, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 🇯🇵 日本-19 = trojan, 108.162.198.15, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+优选域名-01 = trojan, openai.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+优选域名-02 = trojan, tsmc.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+优选域名-03 = trojan, www.5h.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+优选域名-04 = trojan, cdn.204910.best, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+优选域名-05 = trojan, ikea.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+优选域名-06 = trojan, bhp.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 📶 官方优选 = direct
 🇭🇰 香港节点 = direct
 🇺🇲 美国节点 = direct
@@ -66,7 +66,7 @@ DIRECT = direct
 
 [Proxy Group]
 🚀 节点选择 = select,♻️ 自动选择,🇭🇰 香港节点,🇹🇼 台湾节点,🇸🇬 狮城节点,🇯🇵 日本节点,🇺🇲 美国节点,🇰🇷 韩国节点,📶 官方优选,☑️ 手动切换,DIRECT
-☑️ 手动切换 = select,优选域名-01,优选域名-02,优选域名-03,优选域名-04,优选域名-05,优选域名-06,🇸🇬 新加坡-01,🇸🇬 新加坡-02,🇸🇬 新加坡-03,🇸🇬 新加坡-04,🇸🇬 新加坡-05,🇸🇬 新加坡-06,🇸🇬 新加坡-07,🇸🇬 新加坡-08,🇸🇬 新加坡-09,🇸🇬 新加坡-10,🇸🇬 新加坡-11,🇸🇬 新加坡-12,🇸🇬 新加坡-13,🇸🇬 新加坡-14,🇸🇬 新加坡-15,🇸🇬 新加坡-16,🇸🇬 新加坡-17,🇸🇬 新加坡-18,🇸🇬 新加坡-19,🇸🇬 新加坡-20,🇯🇵 日本-01,🇯🇵 日本-02,🇯🇵 日本-03,🇯🇵 日本-04,🇯🇵 日本-05,🇯🇵 日本-06,🇯🇵 日本-07,🇯🇵 日本-08,🇯🇵 日本-09,🇯🇵 日本-10,🇯🇵 日本-11,🇯🇵 日本-12,🇯🇵 日本-13,🇯🇵 日本-14,🇯🇵 日本-15,🇯🇵 日本-16,🇯🇵 日本-17,🇯🇵 日本-18,🇯🇵 日本-19
+☑️ 手动切换 = select,🇸🇬 新加坡-01,🇸🇬 新加坡-02,🇸🇬 新加坡-03,🇸🇬 新加坡-04,🇸🇬 新加坡-05,🇸🇬 新加坡-06,🇸🇬 新加坡-07,🇸🇬 新加坡-08,🇸🇬 新加坡-09,🇸🇬 新加坡-10,🇸🇬 新加坡-11,🇸🇬 新加坡-12,🇸🇬 新加坡-13,🇸🇬 新加坡-14,🇸🇬 新加坡-15,🇸🇬 新加坡-16,🇸🇬 新加坡-17,🇸🇬 新加坡-18,🇸🇬 新加坡-19,🇸🇬 新加坡-20,🇯🇵 日本-01,🇯🇵 日本-02,🇯🇵 日本-03,🇯🇵 日本-04,🇯🇵 日本-05,🇯🇵 日本-06,🇯🇵 日本-07,🇯🇵 日本-08,🇯🇵 日本-09,🇯🇵 日本-10,🇯🇵 日本-11,🇯🇵 日本-12,🇯🇵 日本-13,🇯🇵 日本-14,🇯🇵 日本-15,🇯🇵 日本-16,🇯🇵 日本-17,🇯🇵 日本-18,🇯🇵 日本-19,优选域名-01,优选域名-02,优选域名-03,优选域名-04,优选域名-05,优选域名-06
 ♻️ 自动选择 = url-test,🇭🇰 香港节点,🇸🇬 狮城节点,🇯🇵 日本节点,🇰🇷 韩国节点,url=http://www.gstatic.com/generate_204,interval=300,tolerance=50
 📲 电报消息 = select,🚀 节点选择,♻️ 自动选择,🇸🇬 狮城节点,🇭🇰 香港节点,🇹🇼 台湾节点,🇯🇵 日本节点,🇺🇲 美国节点,🇰🇷 韩国节点,📶 官方优选,☑️ 手动切换,DIRECT
 🤖 OpenAi = select,🚀 节点选择,♻️ 自动选择,🇸🇬 狮城节点,🇭🇰 香港节点,🇹🇼 台湾节点,🇯🇵 日本节点,🇺🇲 美国节点,🇰🇷 韩国节点,📶 官方优选,☑️ 手动切换,DIRECT
