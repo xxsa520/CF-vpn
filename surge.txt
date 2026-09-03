@@ -32,26 +32,26 @@ DIRECT = direct
 🇯🇵 日本-17 = trojan, 108.162.198.10, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 🇯🇵 日本-18 = trojan, 108.162.198.11, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 🇯🇵 日本-19 = trojan, 108.162.198.4, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-01 = trojan, 108.162.192.8, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-02 = trojan, 108.162.192.9, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-03 = trojan, 172.64.32.7, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-04 = trojan, 162.159.0.8, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-05 = trojan, 108.162.192.2, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-06 = trojan, 108.162.192.4, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-07 = trojan, 172.64.32.6, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-08 = trojan, 108.162.192.1, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-09 = trojan, 162.159.0.4, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-10 = trojan, 162.159.0.6, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-11 = trojan, 162.159.0.9, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-12 = trojan, 172.64.32.4, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-13 = trojan, 172.64.32.1, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-14 = trojan, 172.64.32.8, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-01 = trojan, 162.159.0.9, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-02 = trojan, 108.162.192.7, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-03 = trojan, 172.64.32.4, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-04 = trojan, 162.159.0.3, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-05 = trojan, 172.64.32.1, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-06 = trojan, 172.64.32.2, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-07 = trojan, 108.162.192.2, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-08 = trojan, 108.162.192.5, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-09 = trojan, 172.64.32.5, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-10 = trojan, 162.159.0.5, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-11 = trojan, 172.64.32.7, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-12 = trojan, 108.162.192.1, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-13 = trojan, 162.159.0.7, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-14 = trojan, 162.159.0.2, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 🇸🇬 新加坡-15 = trojan, 172.64.32.3, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-16 = trojan, 108.162.192.6, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-17 = trojan, 162.159.0.2, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-18 = trojan, 162.159.0.3, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-19 = trojan, 162.159.0.1, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
-🇸🇬 新加坡-20 = trojan, 172.64.32.5, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-16 = trojan, 162.159.0.8, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-17 = trojan, 172.64.32.9, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-18 = trojan, 162.159.0.1, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-19 = trojan, 172.64.32.8, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
+🇸🇬 新加坡-20 = trojan, 162.159.0.4, 443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 优选域名-01 = trojan, openai.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 优选域名-02 = trojan, tsmc.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
 优选域名-03 = trojan, www.5h.com, 8443, password=e258977b-e413-4718-a3af-02d75492c349, sni=www.x9527.xyz, ws=true, ws-path=/?ed=2048, ws-headers=Host:"www.x9527.xyz", skip-cert-verify=true, tfo=false
